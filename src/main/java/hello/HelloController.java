@@ -11,7 +11,7 @@ public class HelloController {
     //    return "Greetings from Spring Boot!";
     //}
 	String html = "<h1>Hello World!</h1>\n" +
-    "<p>This web app is powered by Geneva Dunn is epic :) \n" +
+    "<p>This web app is powered by \n" +
     "<a href='https://github.com/ucsb-cs56-w20/lab02-Neemers'>this github repo</a></p>\n";
 	return html;
     }
