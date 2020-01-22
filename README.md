@@ -1,6 +1,6 @@
 # cs56-w20-neemers-lab02
 
-Javadoc: https://ucsb-cs56-w20.github.io/lab02-Neemers/javadoc
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-Neemers
 Repo: https://github.com/ucsb-cs56-w20/lab02-Neemers
 
 # About this repo
